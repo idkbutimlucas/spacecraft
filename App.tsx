@@ -4,7 +4,7 @@ import React from "react";
 import { QueryClient, QueryClientProvider } from "react-query";
 
 import { StarshipFeedScreen } from "./src/screens/StarshipFeedScreen";
-import { TermsScreen } from "./src/screens/TermsScreen";
+// import { TermsScreen } from "./src/screens/TermsScreen";
 
 const queryClient = new QueryClient();
 
